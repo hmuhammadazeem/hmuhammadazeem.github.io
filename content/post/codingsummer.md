@@ -1,7 +1,16 @@
 ---
-title: "Codingsummer"
+title: "What should I do during the Summer as a CS Freshman?"
 date: 2023-06-25T15:46:19+05:00
 draft: True
+description = "Start with something simple and small, then expand over time. If people call it a ‘toy’ you’re definitely onto something.” — Aaron Levie It is the end of the June an…"
+tags = [
+    "coding",
+    "students",
+    "summer",
+    "betterdevelopers",
+]
+series = ["Teaching"]
+image = "https://techcodifybyazeem.files.wordpress.com/2022/06/pexels-photo-459654.jpeg"
 ---
 
 # [What should I do during the Summer as a CS Freshman?](https://techcodifybyazeem.wordpress.com/2022/06/23/what-should-i-do-during-the-summer-as-a-cs-freshman/)
