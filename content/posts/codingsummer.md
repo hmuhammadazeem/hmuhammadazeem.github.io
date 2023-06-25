@@ -1,7 +1,7 @@
 ---
 title: "Codingsummer"
 date: 2023-06-25T15:46:19+05:00
-draft: False
+draft: True
 ---
 
 # [What should I do during the Summer as a CS Freshman?](https://techcodifybyazeem.wordpress.com/2022/06/23/what-should-i-do-during-the-summer-as-a-cs-freshman/)
