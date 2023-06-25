@@ -1,0 +1,4 @@
+baseURL = 'http://blog.muhammadazeem.com/'
+languageCode = 'en-us'
+title = 'TechCodify | Muhammad Azeem'
+theme = 'stack'
